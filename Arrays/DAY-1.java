@@ -1,4 +1,5 @@
 
+// Problem: Second Largest Element in an Array
 class Solution {
     public int getSecondLargest(int[] arr) {
         int largest = Integer.MIN_VALUE;

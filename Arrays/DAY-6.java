@@ -1,5 +1,5 @@
+//Majority element-2 (n/3) & Verification
 class Solution {
-    // Function to find the majority elements in the array
     public List<Integer> findMajority(int[] nums) {
         int count1 =0 , count2 = 0, maj1 = 0 , maj2 =0;
         for(int i =0;i<nums.length;i++){

@@ -1,5 +1,5 @@
-class Solution {
-    
+//Next Permutation
+class Solution {    
     void nextPermutation(int[] arr) {
         int n = arr.length;
         int pivot = -1;

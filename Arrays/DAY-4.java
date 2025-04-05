@@ -1,3 +1,4 @@
+//Rotate the Array by d places
 class Solution {
     public static void reverse(int arr[],int start ,int end){
         while(start<=end){
